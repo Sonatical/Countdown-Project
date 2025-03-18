@@ -1,5 +1,5 @@
 // Date of graduation
-const graduationDate = new Date("May 15, 2025 00:00:00").getTime();
+const graduationDate = new Date("May 17, 2026 00:00:00").getTime();
 
 // Function to update countdown
 function updateCountdown() {
